@@ -1,0 +1,24 @@
+{
+      "datasetid":"fiches-horaires-et-plans",
+      "recordid":"fa5738eb4167bae7da6567409095c27d51573927",
+      "fields":{
+         "document_name":"Horaires Ligne Fileo Villiers le Bel",
+         "id_line":"C01433",
+         "url":"https://www.datocms-assets.com/56495/1633687973-fileovillierslebel.pdf",
+         "type":"HORAIRE",
+         "externalcode_line":"116295004:Fil\u00e9o VLB"
+      },
+      "record_timestamp":"2022-12-19T09:35:01.170+01:00"
+   },
+   {
+      "datasetid":"fiches-horaires-et-plans",
+      "recordid":"7b1c54534711065277f1277a5093f6d329b7d2a6",
+      "fields":{
+         "document_name":"Fiche Horaire L1.3",
+         "id_line":"C02433",
+         "url":"https://www.procars.com/index.php?preview=1&option=com_dropfiles&format=&task=frontfile.download&catid=16&id=202&Itemid=1000000000000",
+         "type":"HORAIRE",
+         "externalcode_line":"228228001:1-3"
+      },
+      "record_timestamp":"2022-12-19T09:35:01.170+01:00"
+   },
